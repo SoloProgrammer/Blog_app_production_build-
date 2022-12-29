@@ -1,2 +1,9 @@
 .env
 /node_modules
+/middleware
+/models
+/Routes
+/uploads
+db.js
+index.js
+
